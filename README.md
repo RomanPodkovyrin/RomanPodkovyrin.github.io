@@ -20,24 +20,23 @@ To save you time, and also in case you lose some files while copying, we extract
 
 Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of the basic environment. [Git](https://git-scm.com/) also needs to be installed.
 
-## Installation
+## Local
 
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it `USERNAME.github.io`, where `USERNAME` represents your GitHub username.
-
-Then clone it to your local machine and run:
-
-```
-$ bundle
-```
-
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
-Run locally 
+Run locally
 
 ```
 bundle exec jekyll serve --livereload
+```
+
+Added to Gemfile ot enable [extra features](https://github.com/jekyll/jekyll-compose) 
+```
+gem 'jekyll-compose', group: [:jekyll_plugins]gem 'jekyll-compose', group: [:jekyll_plugins]
+```
+
+create new post
+
+```
+bundle exec jekyll post "My post"
 ```
 
 ## License
