@@ -34,6 +34,12 @@ $ bundle
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
 
+Run locally 
+
+```
+bundle exec jekyll serve --livereload
+```
+
 ## License
 
 This work is published under [MIT][mit] License.
