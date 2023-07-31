@@ -8,6 +8,36 @@ img_path: /assets/postsImgs/test
 
 <html>
 <head>
+
+  <h1>Text Input and Character Counter</h1>
+  <input type="text" id="inputBox" oninput="countCharacters()" />
+  <p>Character Count: <span id="charCount">0</span></p>
+
+  <script>
+    function countCharacters() {
+      const inputBox = document.getElementById('inputBox');
+      const charCountSpan = document.getElementById('charCount');
+      const text = inputBox.value;
+      const charCount = text.length;
+      charCountSpan.textContent = charCount;
+    }
+  </script>
+  <title>{{ page.title }}</title>
+  <!-- Your other head content here -->
+
+  <!-- Include custom JavaScript if specified in the page's front matter -->
+  <!-- <script src="js/wc.js"></script> -->
+
+</head>
+<body>
+  <!-- Your page content here -->
+</body>
+</html>
+
+
+<!-- 
+<html>
+<head>
   <title>Simple JavaScript Animation</title>
   <style>
     #ball {
@@ -58,4 +88,4 @@ img_path: /assets/postsImgs/test
     };
   </script>
 </body>
-</html>
+</html> -->
