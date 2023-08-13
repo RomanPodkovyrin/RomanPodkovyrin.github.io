@@ -172,7 +172,7 @@ There might be many reasons that you decide to change your cloud provider: An in
       const minutes = totalMinutes % 60;
       const days =  Math.floor(TotalHours / 24);
 
-      return `${days}:days, ${hours}:h, ${minutes}:m, ${seconds}:s`;
+      return `${days} days, ${hours} hours, ${minutes} minutes, ${seconds} seconds`;
     }
 
     function calculateSpeed() {
