@@ -10,7 +10,7 @@ tags: [storage, home, future, nas]     ## TAG names should always be lowercase
 
 ## Introduction
 
-In today's world of pocket cameras known as smartphones, we have all become amateur photographers and videographers thanks to it's ubiquity. It gifted us with high-definition capabilities, allowing us to capture life's fleeting moments.
+In today's world of pocket cameras known as smartphones, we have all become amateur photographers and videographers thanks to their ubiquity. It gifted us with high-definition capabilities, allowing us to capture life's fleeting moments.
 
 The coincidence of having these powerful devices in our pockets leads to an avalanche of photos and videos, creating a staggering volume of data that we must deal with daily.
 
@@ -22,7 +22,7 @@ The rise of pocket cameras has revolutionized the way we capture and immortalize
 
 ### The Data Deluge: Capturing Moments in Pixels
 
-The allure of high-definition photos and videos prompts us to click away tirelessly, amassing an astonishing volume of media content. Each trip, party, or mundane moment turns into a potential photo or video opportunity. We find ourselves grappling with how to store, organize, and manage the ever-growing collection of digital souvenirs. Let's try to calculate how much data we generate. Taking my phone as an example (s21) I can see that one photo of takes up about 3 mb and 1 minute video is about 500 mblooking thought my gallery I take about 100 pictures and 5 mins of videos on a weekly basis. You might be different, so please use a handy calculator below to find for yourself
+The allure of high-definition photos and videos prompts us to click away tirelessly, amassing an astonishing volume of media content. Each trip, party, or mundane moment turns into a potential photo or video opportunity. We find ourselves grappling with how to store, organize, and manage the ever-growing collection of digital souvenirs. Let's try to calculate how much data we generate. Taking my phone as an example (s21) I can see that one photo takes up about 3 MB and a 1-minute video is about 500 MB. Looking through my gallery I take about 100 pictures and 5 mins of videos weekly. You might be different, so please use a handy calculator below to find for yourself
 
 <html>
 <head>
@@ -81,18 +81,18 @@ The allure of high-definition photos and videos prompts us to click away tireles
 </body>
 </html>
 
-Now with only 100 pictures a day and about 5 mins of video, I generate nearly 150 GB a year😲! It might seems small, but have to take into consideration any of the images that you also download and save on your phone. Additionally as technology is going to be improving, the file sizes of those will most definitely increase. Which will further increase the data you accumulate in a year. Additionally if you are a part of a family and share your data backups, this number can double, triple, quadruple and so on.
+Now with only 100 pictures a day and about 5 mins of video, I generate nearly 150 GB a year😲! It might seem small, but have to take into consideration any of the images that you also download and save on your phone. Additionally, as technology is going to be improving, the file sizes of those will most definitely increase. Which will further increase the data you accumulate in a year. Additionally, if you are part of a family and share your data backups, this number can double, triple, quadruple and so on.
 
-## Pandoras box of storage solutions
+## Pandora's box of storage solutions
 
 ### Portable HHD or SSD
 
-The first obvious way you will think about storing data will be by just buying basic hard drive of amazon storing it all there. That's an obvious solution, there is no monthly fees, no setup, you just plug and play. But using those technologies came with a big caveats that people don't tend to considerer
+The first obvious way you will think about storing data will be by just buying a basic hard drive from Amazon and storing it all there. That's an obvious solution, there are no monthly fees, no setup, you just plug and play. But using those technologies came with a big caveat that people don't tend to considerer
 
 Cons:
 
 1. Hard drives are a lot more likely to fail after 3 years
-   - The the scariest part you might not even notice that the drive started to fail until it's too late
+   - Then the scariest part you might not even notice that the drive started to fail until it's too late
 2. Easy to break
 3. If it gets lost, that's all your data gone
 
@@ -102,17 +102,17 @@ Pros:
 2. Easy to use
 3. Portable
 
-As highlighted above, it might seem like an easy and cheap storage solution, but you are at a great risk of loosing all your data with this method, especially if not handled with care or knowledge. And the SSDs are still too expensive when looking at larger sizes to even consider them for data backup and storage.
+As highlighted above, it might seem like an easy and cheap storage solution, but you are at great risk of losing all your data with this method, especially if not handled with care or knowledge. And the SSDs are still too expensive when looking at larger sizes to even consider them for data backup and storage.
 
 ### Cloud
 
 #### Seeking Solace in the Cloud
 
-Cloud is the new age solution to storing large amounts of data, but again although it improves on Hard drive storing option, it creates new issues. Using services like Google Photos, Apple's iCloud, Dropbox come with the following
+Cloud is the new-age solution to storing large amounts of data, but again although it improves on the Hard drive storing option, it creates new issues. Using services like Google Photos, Apple's iCloud, and Dropbox comes with the following
 
 Cons:
 
-- Privacy is under questions with a lot of those services
+- Privacy is under question with a lot of those services
 - Despite better security, those guys are a large target in the eyes of hackers, which can endanger your data being erased or leaked online.
 - Monthly subscription costs for higher storage options
 - Data Exit strategies are blurry and not guaranteed to be always available
@@ -128,7 +128,7 @@ Pros:
 
 As the saying goes, "Once it's on the internet, it's there forever." The same applies to cloud-stored data, making the process of leaving one cloud provider for another a daunting task. This "cloud lock-in" can be frustrating, limiting our ability to exercise full control over our data.
 
-There might be many reasons that you decide to change your cloud provider: Increase in monthly fees, security and privacy concerns, the cloud storage provider is going out of business and etc. If you use it over a number of years you can accumulate an insane amount of data. Let's say will have 1tb of data saved (Which according to my calculation is just the amount of data I generated in a year), it will take you ages to download it. Let's see how long it's going to take you to download it depending on your internet speed.
+There might be many reasons that you decide to change your cloud provider: An increase in monthly fees, security and privacy concerns, the cloud storage provider going out of business, etc. If you use it over several years you can accumulate an insane amount of data. Let's say will have 1tb of data saved (Which according to my calculation is just the amount of data I generated in a year), it will take you ages to download it. Let's see how long it's going to take you to download it depending on your internet speed.
 
 <html>
 <head>
@@ -189,9 +189,9 @@ There might be many reasons that you decide to change your cloud provider: Incre
   </body>
 </html>
 
-It will take around 5 days to download and upload your data to a different service. This is also considering that you have a stable internet connection or that you ara able to leave your computer open and connected for multiple days. And even if you are able to do this, you would need to have an actual storage large enough to temporary store it.
+It will take around 5 days to download and upload your data to a different service. This is also considering that you have a stable internet connection or that you can leave your computer open and connected for multiple days. And even if you can do this, you would need to have actual storage large enough to temporarily store it.
 
-Even if the services are offering some ways of automatically moving between different cloud storage service providers, there is no guarantee that they won't remove it in the future or if it there will be some limitations or charges you are going to be uncomfortable paying.
+Even if the services are offering some ways of automatically moving between different cloud storage service providers, there is no guarantee that they won't remove it in the future or that it there will be some limitations or charges you are going to be uncomfortable paying.
 
 ## NAS: An Alternative Solution to Cloud Storage
 
@@ -205,12 +205,12 @@ One of the primary appeals of NAS is the sense of complete ownership and control
 
 While some cloud storage services offer free tiers, the amount of storage is often limited. To access more significant storage capacities, users are usually required to pay monthly subscription fees. Over time, these costs can add up, especially for users with substantial media collections. On the other hand, investing in a NAS device provides a one-time cost, and users can expand storage capacity by adding additional hard drives as needed.
 
-> NAS hard drives need to be updated every once in a while to prevent from losing your data if the disk fails. RAID is also highly recommended.
+> NAS hard drives need to be updated every once in a while to prevent losing your data if the disk fails. RAID is also highly recommended.
 {: .prompt-tip }
 
 ## 3. No Data Transfer Limits
 
-With NAS, data transfer is limited only by the local network's capabilities, providing users with the freedom to transfer and access their media files without such restrictions. As with NAS you also have direct connection to the storage you can transfer large data over high speed and reliable connection.
+With NAS, data transfer is limited only by the local network's capabilities, providing users with the freedom to transfer and access their media files without such restrictions. As with NAS you also have a direct connection to the storage you can transfer large data over high speed and reliable connection.
 
 ## 4. Seamless Integration and Accessibility
 
@@ -224,5 +224,5 @@ NAS devices integrate seamlessly into home or office networks, making media cont
 
 ## Conclusion
 
-While cloud storage solutions offer undeniable convenience and accessibility, they might not be the best fit for users seeking greater control over their data and privacy. Network Attached Storage (NAS) presents an attractive alternative, providing complete ownership, data security, and the ability to access media files locally without data transfer limits. By adopting a NAS solution, users can strike a balance between the convenience of cloud storage and the autonomy of on-premises data management, ensuring that their cherished memories remain safe, private, and easily accessible within the confines of their own network.
-Don't get my wrong, i fully understand how it sound if you are not as technically savvy when you are listening to my rumbling about doing something so technical and becoming your own IT admin. It's a big ask, but rather than making this article to make you setup your own nas, i am doing it to raise awareness on the amounts of date that's is being generated, and that we all need to put a bit more thought into how we are going to be storing it. As highlighted, due to the sheer amount of data generated on yearly bases, it can get very difficult or expensive to store it for the years to come if we don't start thinking about it now
+While cloud storage solutions offer undeniable convenience and accessibility, they might not be the best fit for users seeking greater control over their data and privacy. Network Attached Storage (NAS) presents an attractive alternative, providing complete ownership, data security, and the ability to access media files locally without data transfer limits. By adopting a NAS solution, users can strike a balance between the convenience of cloud storage and the autonomy of on-premises data management, ensuring that their cherished memories remain safe, private, and easily accessible within the confines of their network.
+Don't get me wrong, I fully understand how it sounds if you are not as technically savvy when you are listening to my rumbling about doing something so technical and becoming your own IT admin. It's a big ask, but rather than making this article to make you set up your NAS, I am doing it to raise awareness on the amounts of data that is being generated, and that we all need to put a bit more thought into how we are going to be storing it. As highlighted, due to the sheer amount of data generated on yearly bases, it can get very difficult or expensive to store it for the years to come if we don't start thinking about it now
