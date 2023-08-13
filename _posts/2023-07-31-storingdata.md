@@ -44,6 +44,8 @@ The allure of high-definition photos and videos prompts us to click away tireles
   <script>
     document.getElementById("pictures").addEventListener("change", calculateSize);
     document.getElementById("videos").addEventListener("change", calculateSize);
+    document.getElementById("videosSize").addEventListener("change", calculateSize);
+    document.getElementById("picturesSize").addEventListener("change", calculateSize);
     let oneMbInBytes = 1048576;
     function formatBytes(bytes, decimals = 2) {
       if (!+bytes) return '0 Bytes';
