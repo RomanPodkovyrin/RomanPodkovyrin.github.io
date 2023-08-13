@@ -22,7 +22,7 @@ The rise of pocket cameras has revolutionized the way we capture and immortalize
 
 ### The Data Deluge: Capturing Moments in Pixels
 
-The allure of high-definition photos and videos prompts us to click away tirelessly, amassing an astonishing volume of media content. Each trip, party, or mundane moment turns into a potential photo or video opportunity. We find ourselves grappling with how to store, organize, and manage the ever-growing collection of digital souvenirs. Let's try to calculate how much data we generate. Taking my phone as an example (s21) I can see that one photo takes up about 3 MB and a 1-minute video is about 500 MB. Looking through my gallery I take about 100 pictures and 5 mins of videos weekly. You might be different, so please use a handy calculator below to find for yourself
+The allure of high-definition photos and videos prompts us to click away tirelessly, amassing an astonishing volume of media content. Each trip, party, or mundane moment turns into a potential photo or video opportunity. We find ourselves grappling with how to store, organize, and manage the ever-growing collection of digital souvenirs. Let's try to calculate how much data we generate. Taking my phone as an example (Samsung S21) one photo takes up about **3 MB** and a 1-minute video is about **500 MB**. Looking through my gallery I take about 100 pictures and 5 mins of videos weekly. You might be different, so please use a handy calculator below to find for yourself.
 
 <html>
 <head>
@@ -83,7 +83,7 @@ The allure of high-definition photos and videos prompts us to click away tireles
 </body>
 </html>
 
-Now with only 100 pictures a day and about 5 mins of video, I generate nearly 150 GB a year😲! It might seem small, but have to take into consideration any of the images that you also download and save on your phone. Additionally, as technology is going to be improving, the file sizes of those will most definitely increase. Which will further increase the data you accumulate in a year. Additionally, if you are part of a family and share your data backups, this number can double, triple, quadruple and so on.
+Now with only 100 pictures and about 5 mins of video a week, I generate nearly **150 GB** a year😲! It might seem small, but have to take into consideration any of the images that you also download and save on your phone. Additionally, as technology is going to be improving, the file sizes of those will most definitely increase. Which will further increase the data you accumulate in a year. Additionally, if you are part of a family and share your data backups, this number can double, triple, quadruple and so on.
 
 ## Pandora's box of storage solutions
 
