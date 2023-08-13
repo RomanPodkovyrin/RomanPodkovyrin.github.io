@@ -46,15 +46,15 @@ The allure of high-definition photos and videos prompts us to click away tireles
     document.getElementById("videos").addEventListener("change", calculateSize);
     let oneMbInBytes = 1048576;
     function formatBytes(bytes, decimals = 2) {
-      if (!+bytes) return '0 Bytes'
+      if (!+bytes) return '0 Bytes';
 
-      const k = 1024
-      const dm = decimals < 0 ? 0 : decimals
-      const sizes = ['Bytes', 'KiB', 'MiB', 'GiB', 'TiB', 'PiB', 'EiB', 'ZiB', 'YiB']
+      const k = 1024;
+      const dm = decimals < 0 ? 0 : decimals;
+      const sizes = ['Bytes', 'KiB', 'MiB', 'GiB', 'TiB', 'PiB', 'EiB', 'ZiB', 'YiB'];
 
-      const i = Math.floor(Math.log(bytes) / Math.log(k))
+      const i = Math.floor(Math.log(bytes) / Math.log(k));
 
-      return `${parseFloat((bytes / Math.pow(k, i)).toFixed(dm))} ${sizes[i]}`
+      return `${parseFloat((bytes / Math.pow(k, i)).toFixed(dm))} ${sizes[i]}`;
     }
 
     function calculateSize() {
@@ -69,10 +69,10 @@ The allure of high-definition photos and videos prompts us to click away tireles
       const videoNum = videosinputBox.value;
       const picturesSizeNum = picturesSize.value;
       const videosSizeNum = videosSize.value;
-      const bytes = ((picturesSizeNum *oneMbInBytes* pictureNum) + (videosSizeNum *oneMbInBytes* videoNum))*52
+      const bytes = ((picturesSizeNum *oneMbInBytes* pictureNum) + (videosSizeNum *oneMbInBytes* videoNum))*52;
       dataSizeSpan.textContent = formatBytes(bytes);
       tenYearsdataSizeSpan.textContent = formatBytes(bytes*10);
-      lifespanSizeSpan.textContent = formatBytes(bytes*70)
+      lifespanSizeSpan.textContent = formatBytes(bytes*70);
     }
   </script>
 
@@ -150,15 +150,15 @@ There might be many reasons that you decide to change your cloud provider: An in
     document.getElementById("upload").addEventListener("change", calculateSpeed);
     document.getElementById("totalDataSize").addEventListener("change", calculateSpeed);
     function formatBytes(bytes, decimals = 2) {
-      if (!+bytes) return '0 Bytes'
+      if (!+bytes) return '0 Bytes';
 
-      const k = 1024
-      const dm = decimals < 0 ? 0 : decimals
-      const sizes = ['Bytes', 'KiB', 'MiB', 'GiB', 'TiB', 'PiB', 'EiB', 'ZiB', 'YiB']
+      const k = 1024;
+      const dm = decimals < 0 ? 0 : decimals;
+      const sizes = ['Bytes', 'KiB', 'MiB', 'GiB', 'TiB', 'PiB', 'EiB', 'ZiB', 'YiB'];
 
-      const i = Math.floor(Math.log(bytes) / Math.log(k))
+      const i = Math.floor(Math.log(bytes) / Math.log(k));
 
-      return `${parseFloat((bytes / Math.pow(k, i)).toFixed(dm))} ${sizes[i]}`
+      return `${parseFloat((bytes / Math.pow(k, i)).toFixed(dm))} ${sizes[i]}`;
     }
 
     function toHoursAndMinutes(totalSeconds) {
