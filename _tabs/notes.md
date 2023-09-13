@@ -16,3 +16,5 @@ title: Notes
   - <a href="/assets/docs/Java.pdf" target="_blank" class="image fit">Java</a>
   - <a href="/assets/docs/python.pdf" target="_blank" class="image fit">Python</a>
   - <a href="/assets/docs/kotlin.pdf" target="_blank" class="image fit">Kotlin</a>
+
+For more notes please look [here](https://github.com/RomanPodkovyrin/notes)
