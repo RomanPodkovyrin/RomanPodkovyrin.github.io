@@ -89,7 +89,7 @@ Now with only 100 pictures and about 5 mins of video a week, I generate nearly *
 
 ### Portable HHD or SSD
 
-The first obvious way you will think about storing data will be by just buying a basic hard drive from Amazon and storing it all there. That's an obvious solution, there are no monthly fees, no setup, you just plug and play. But using those technologies came with a big caveat that people don't tend to considerer
+The first obvious way you will think about storing data will be by just buying a basic hard drive from Amazon and storing it all there. That's an obvious solution, there are no monthly fees, no setup, you just plug and play. But using those technologies came with a big caveat that people don't tend to consider
 
 Cons:
 
@@ -130,7 +130,7 @@ Pros:
 
 As the saying goes, "Once it's on the internet, it's there forever." The same applies to cloud-stored data, making the process of leaving one cloud provider for another a daunting task. This "cloud lock-in" can be frustrating, limiting our ability to exercise full control over our data.
 
-There might be many reasons that you decide to change your cloud provider: An increase in monthly fees, security and privacy concerns, the cloud storage provider going out of business, etc. If you use it over several years you can accumulate an insane amount of data. Let's say will have 1tb of data saved (Which according to my calculation is just the amount of data I generated in a year), it will take you ages to download it. Let's see how long it's going to take you to download it depending on your internet speed.
+There might be many reasons that you decide to change your cloud provider: An increase in monthly fees, security and privacy concerns, the cloud storage provider going out of business, etc. If you use it over several years you can accumulate an insane amount of data. Let's say will have 1tb of data saved (Which according to my calculation is just the amount of data I generate in a decade, given that you are using the internet and reading nerdy articles, I will assume you are not a toddler and have been spinning around sun for a least over a decade or two), it will take you ages to download it. Let's see how long it's going to take you to download it depending on your internet speed.
 
 <html>
 <head>
@@ -193,7 +193,7 @@ There might be many reasons that you decide to change your cloud provider: An in
 
 It will take around 5 days to download and upload your data to a different service. This is also considering that you have a stable internet connection or that you can leave your computer open and connected for multiple days. And even if you can do this, you would need to have actual storage large enough to temporarily store it.
 
-Even if the services are offering some ways of automatically moving between different cloud storage service providers, there is no guarantee that they won't remove it in the future or that it there will be some limitations or charges you are going to be uncomfortable paying.
+Even if the services are offering some ways of automatically moving between different cloud storage service providers, there is no guarantee that they won't remove it in the future or that there will be some limitations or charges you are going to be uncomfortable paying.
 
 ## NAS: An Alternative Solution to Cloud Storage
 
@@ -227,4 +227,4 @@ NAS devices integrate seamlessly into home or office networks, making media cont
 ## Conclusion
 
 While cloud storage solutions offer undeniable convenience and accessibility, they might not be the best fit for users seeking greater control over their data and privacy. Network Attached Storage (NAS) presents an attractive alternative, providing complete ownership, data security, and the ability to access media files locally without data transfer limits. By adopting a NAS solution, users can strike a balance between the convenience of cloud storage and the autonomy of on-premises data management, ensuring that their cherished memories remain safe, private, and easily accessible within the confines of their network.
-Don't get me wrong, I fully understand how it sounds if you are not as technically savvy when you are listening to my rumbling about doing something so technical and becoming your own IT admin. It's a big ask, but rather than making this article to make you set up your NAS, I am doing it to raise awareness on the amounts of data that is being generated, and that we all need to put a bit more thought into how we are going to be storing it. As highlighted, due to the sheer amount of data generated on yearly basis, it can get very difficult or expensive to store it for the years to come if we don't start thinking about it now.
+Don't get me wrong, I fully understand how it sounds if you are not as technically savvy when you are listening to my rumbling about doing something so technical and becoming your own IT admin. It's a big ask, but rather than making this article to make you set up your NAS, I am doing it to raise awareness on the amounts of data that is being generated, and that we all need to put a bit more thought into how we are going to be storing it. As highlighted, due to the sheer amount of data generated yearly, it can get very difficult or expensive to store it for the years to come if we don't start thinking about it now.
