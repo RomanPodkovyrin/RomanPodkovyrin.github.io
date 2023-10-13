@@ -9,6 +9,6 @@ Hello, my name is Roman and I am interested in Computer Science and Photography.
 
 So, I have decided to make a website where I can ramble about both of the things I love. Hope you enjoy.
 
-This page doesn't collect any of your information accept comments that use Github Discussions for your interaction. There is no site analytics, currently
+On this page you should find, posts (about boths Photography and Technology),My tech notes, Photography gallery and My CV
 
 Roman
