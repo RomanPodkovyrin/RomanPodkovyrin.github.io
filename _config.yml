@@ -18,7 +18,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Roman Podkovyrin # the main title
+title: Roman # the main title
 
 tagline: Photographer with MSci in Computer Science, Quack 🦆 # it will display as the sub-title
 
@@ -40,7 +40,7 @@ instagram:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Roman Podkovyrin
+  name: Roman
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
