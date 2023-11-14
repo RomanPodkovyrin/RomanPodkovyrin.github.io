@@ -80,7 +80,6 @@ Payload content:
 
 - Note
   - As JWTs are sent through HTTP headers, you should keep them small.
-  - When sending JWT in the `Authorization` header
 
 Pro:
 
