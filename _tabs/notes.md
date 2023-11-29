@@ -7,7 +7,7 @@ title: Notes
 
 <!-- - <a href="/assets/docs/UoB_Roman_Podkovyrin_Final_Year_Project.pdf" target="_blank" class="image fit">Dissertation</a> -->
 
-> The following are some of the notes that have been taken by me over the years. I do not claim sole ownership to those as it's not my original work. Those are just put into format that was easier for me to remember and understand, by rephrasing and adding my own explanations. Please feel free to use those, most of those should have references at the bottom that links to the original content.
+> The following are some of the notes that have been taken by me over the years.
 {: .prompt-info }
 
 - Cloud
