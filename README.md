@@ -25,6 +25,10 @@ Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installat
 Run locally
 
 ```
+bundle install
+```
+
+```
 bundle exec jekyll serve --livereload
 ```
 
@@ -38,6 +42,20 @@ create new post
 ```
 bundle exec jekyll post "My post"
 ```
+
+## Update
+
+```
+bundle update
+```
+
+## Modify theme
+
+```
+bundle info --path jekyll-theme-chirpy
+```
+
+can take those an move what you want to change to root folder of the repo
 
 ## License
 
