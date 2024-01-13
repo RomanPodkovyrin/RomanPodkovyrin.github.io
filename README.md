@@ -32,7 +32,7 @@ bundle install
 bundle exec jekyll serve --livereload
 ```
 
-Added to Gemfile ot enable [extra features](https://github.com/jekyll/jekyll-compose) 
+Added to Gemfile to enable [extra features](https://github.com/jekyll/jekyll-compose)
 ```
 gem 'jekyll-compose', group: [:jekyll_plugins]gem 'jekyll-compose', group: [:jekyll_plugins]
 ```
