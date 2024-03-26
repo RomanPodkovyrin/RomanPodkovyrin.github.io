@@ -7,12 +7,12 @@ title: CV
  
 > <p align="left">
 💫 <b>About Me:</b>
-<br>     A Full-Stack Software Engineer interested in security and home lab DIY
+<br>     A Software Engineer interested in security and home lab DIY
 <br>
 🔭 <b>I’m currently working on:</b> AWS Lambdas<br>
 <!-- 👯 I’m looking to collaborate on<br> -->
 <!-- 🤝 I’m looking for help with<br> -->
-🌱 <b>I’m currently learning:</b> Spring Boot<br>
+🌱 <b>I’m currently learning:</b> Spring Boot, Go, and Ansible<br>
 💬 <b>Ask me about:</b>  Emails, photo organisation and selfhosting <br>
 ⚡ <b>Fun fact:</b> I like ducks 🦆</p>
 {: .prompt-tip }
